@@ -1227,7 +1227,7 @@
       "continueWithMicrosoft": "使用 Microsoft 繼續",
       "protocolUnavailable": "無法透過瀏覽器登入 — 請在系統的「預設應用程式」設定中重新註冊 openwhispr:// 協定。"
     },
-    "welcomeSubtitle": "你的聲音，由你掌控。",
+    "welcomeSubtitle": "為 Synnc Labs 客製化。以 OpenWhispr Team 開發的 OpenWhispr 為基礎。",
     "welcomeTitle": "歡迎使用 OpenWhispr",
     "sessionExpired": "工作階段已過期，請重新登入。"
   },

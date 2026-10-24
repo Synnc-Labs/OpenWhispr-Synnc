@@ -1291,7 +1291,7 @@
       "continueWithMicrosoft": "المتابعة باستخدام Microsoft",
       "protocolUnavailable": "تسجيل الدخول عبر المتصفح غير متوفر — أعد تسجيل بروتوكول openwhispr:// في إعدادات التطبيقات الافتراضية بنظامك."
     },
-    "welcomeSubtitle": "قوة صوتك. بشروطك.",
+    "welcomeSubtitle": "نسخة مخصصة لـ Synnc Labs، مبنية على OpenWhispr من OpenWhispr Team.",
     "welcomeTitle": "مرحبًا بك في OpenWhispr",
     "sessionExpired": "انتهت الجلسة. يرجى إعادة بدء عملية التسجيل."
   },

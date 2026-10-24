@@ -1227,7 +1227,7 @@
       "continueWithMicrosoft": "Continuar con Microsoft",
       "protocolUnavailable": "Inicio de sesión por navegador no disponible — vuelve a registrar el protocolo openwhispr:// en los ajustes de Aplicaciones predeterminadas del sistema."
     },
-    "welcomeSubtitle": "El poder de tu voz. En tus términos.",
+    "welcomeSubtitle": "Personalizado para Synnc Labs. Basado en OpenWhispr, del OpenWhispr Team.",
     "welcomeTitle": "Bienvenido a OpenWhispr",
     "sessionExpired": "Sesión expirada"
   },

@@ -1227,7 +1227,7 @@
       "continueWithMicrosoft": "Continue with Microsoft",
       "protocolUnavailable": "Browser sign-in unavailable — re-register the openwhispr:// protocol in your system's Default Apps settings."
     },
-    "welcomeSubtitle": "The power of your voice. On your terms.",
+    "welcomeSubtitle": "Customized for Synnc Labs. Built on OpenWhispr by the OpenWhispr Team.",
     "welcomeTitle": "Welcome to OpenWhispr",
     "sessionExpired": "Session expired. Please restart the sign-up process."
   },

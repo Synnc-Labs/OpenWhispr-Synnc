@@ -1,3 +1,13 @@
+# OpenWhispr — Synnc customization
+
+This repository is a small customization of [OpenWhispr](https://github.com/OpenWhispr/openwhispr), created by the OpenWhispr Team and contributors. Synnc Labs did not build the upstream application. The original MIT license and copyright notices are retained.
+
+The welcome screen identifies this as a Synnc Labs customization and credits OpenWhispr in all supported interface languages. See [SYNNC_CUSTOMIZATIONS.md](SYNNC_CUSTOMIZATIONS.md) for the exact scope and upstream baseline.
+
+The documentation and download links below are retained from upstream; they refer to the upstream project and its releases, not Synnc builds.
+
+---
+
 <p align="center">
   <img src="src/assets/logo.svg" alt="OpenWhispr" width="120" />
 </p>
